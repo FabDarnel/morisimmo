@@ -1,0 +1,7 @@
+beautifulsoup4==4.11.1
+chart_studio==1.1.0
+numpy==1.23.4
+pandas==1.5.1
+plotly==5.11.0
+requests==2.28.1
+streamlit==1.14.0

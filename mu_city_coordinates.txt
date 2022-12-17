@@ -1,0 +1,152 @@
+city,lat,lon
+Curepipe,-20.3162,57.5166
+Port Louis,-20.1667,57.5
+Quartier Militaire,-20.25,57.55
+Centre de Flacq,-20.2002,57.7177
+Port Mathurin,-19.6833,63.4211
+Cap Malheureux,-19.9861,57.6119
+Trois Boutiques,-20.4502,57.656
+Rose Hill,-20.2441,57.4719
+Plaisance,-20.2421,57.461
+Stanley,-20.2503,57.4597
+Beau Bassin,-20.2276,57.4681
+La Source,-20.2711,57.4625
+Engrais Martial,-20.3003,57.5094
+Floreal,-20.3094,57.5008
+Eaux Coulee,-20.3042,57.5175
+Malherbes,-20.3092,57.5247
+Carreau La Liane,-20.2806,57.4764
+Pellegrin,-20.2594,57.4905
+Camp Caval,-20.32,57.5019
+Mare Samson,-20.1714,57.4417
+Petit Camp,-20.2698,57.4976
+Grand River North West,-20.1779,57.4765
+Quatre Bornes,-20.2654,57.4778
+Petit Verger,-20.1756,57.4336
+Chebel,-20.203,57.458
+Richelieu,-20.1932,57.4595
+Le Hochet,-20.1386,57.5301
+Riche Terre,-20.1331,57.5247
+Les Casernes,-20.3261,57.4986
+Coromandel,-20.1879,57.4659
+La Rotraite,-20.2,57.4667
+Belle Etoile,-20.2047,57.4705
+Forest Side,-20.32,57.5306
+Engrais Cathan,-20.2992,57.5186
+Solferino,-20.2908,57.4672
+Terre Rouge,-20.1283,57.5312
+Bonne Terre,-20.2878,57.4756
+River Side,-20.2775,57.4967
+Trianon,-20.2558,57.4942
+Ebene,-20.2456,57.4842
+Vacoas,-20.2981,57.4783
+Holyrood,-20.3097,57.4675
+Ville Noire,-20.4019,57.6947
+Mahebourg,-20.4081,57.7
+Bois Marchand,-20.1233,57.5331
+Camp Roches,-20.3219,57.4678
+Bois Pignolet,-20.1324,57.5446
+La Cocoterie,-20.1316,57.5016
+Richeterre,-20.1167,57.5
+Mesnil,-20.2903,57.5117
+La Croisee,-20.3186,57.4783
+Glen Park,-20.3211,57.4783
+Reunion,-20.3092,57.4881
+La Marie,-20.335,57.485
+Camp La Savanne,-20.325,57.4686
+Camp Mapou,-20.3322,57.4653
+La Rosa,-20.4136,57.6169
+New Grove,-20.4086,57.6136
+Petite Riviere,-20.1894,57.4453
+Saint Paul,-20.2878,57.5044
+Phoenix,-20.2867,57.5022
+Mare d'Albert,-20.4186,57.6228
+Camp Fouquereaux,-20.2869,57.5211
+Morcellemont Saint Andre,-20.0731,57.5581
+Gros Billot,-20.4164,57.6031
+Triolet,-20.0547,57.5453
+Bagatelle,-20.2555,57.5205
+Highlands,-20.278,57.5163
+Belle Terre,-20.2659,57.5219
+Valentina,-20.2757,57.5056
+Saint Antoine,-20.2814,57.5239
+Khoyratty,-20.1206,57.5475
+Cinq Arpents,-20.271,57.5309
+Grand dans Fond,-20.1811,57.6667
+Solitude,-20.0769,57.5386
+Bon Air,-20.0619,57.5619
+Rose Belle,-20.4003,57.5967
+L'Union,-20.5,57.4667
+Saint Felix,-20.5017,57.4606
+Pomponnette,-20.5094,57.4803
+Bois d'Oiseaux,-20.4131,57.6
+Petit Verger,-20.2163,57.5257
+Saint Pierre,-20.2215,57.5343
+Riviere Baptiste,-20.2097,57.5357
+Belle Rose,-20.215,57.5183
+Mamzelle Jeanne,-20.0303,57.6497
+Saint Antoine,-20.0417,57.6536
+Belmont,-20.045,57.6586
+Goodlands,-20.035,57.6431
+Medine,-20.2422,57.6425
+Roche Terre,-20.0186,57.6447
+Bel Etang,-20.2397,57.6564
+Madame Azor,-20.03,57.6611
+Mon Desert,-20.2263,57.5353
+Camp Auguste,-20.2415,57.5346
+Belvedere,-20.1961,57.6639
+Lalmatie,-20.1897,57.6611
+Cote D'or,-20.2494,57.5356
+Trou aux Biches,-20.045,57.5461
+Surinam,-20.5097,57.5053
+Riambel,-20.515,57.5
+Cottage,-20.0597,57.6292
+Forbach,-20.0644,57.6258
+Notre Dame,-20.143,57.5597
+Montagne Longue,-20.1431,57.5622
+Grand Baie,-20.0130199,57.584627
+Trou aux Biches,-20.0362961,57.5447033
+Roches Noires,-20.1088905,57.7185331
+Bel Air Riviere Seche,-20.25680473,57.75218952
+Black River,-20.36028,57.36611
+Henrietta,-20.3356,57.4664
+Camp Levieux,-20.25899,57.49
+Roche Brunes,-20.2331,57.4525
+Haute Rive,-20.0969,57.6981
+Albion,-20.2117,57.4008
+St Antoine,-20.2814,57.5239
+Calodyne,-20.003273,57.641668
+Tombeau Bay,-20.126779,57.505168
+Baie Du Tombeau,-20.126779,57.505168
+Riviere Noire,-20.36028,57.36611
+La Preneuse,-20.355647,57.370126
+Pinte aux Sables,-20.172186,57.447313
+Flic en Flac,-20.281253,57.373649
+ Grand Gaube,-20.014892,57.66818
+Moka,-20.222934,57.510413
+Poste de Flacq,-20.167912,57.748151
+Soreze,-20.20878,57.48289
+Sodnac,-20.275047,57.482376
+Le Morne,-20.453433,57.313142
+Le Morne Brabant,-20.453433,57.313142
+Congomah,-20.14676,57.596209
+Pointe aux Canonniers,-20.006318,57.563124
+Vallee des Pretres,-20.168305,57.5352
+d'Epinay,-20.130721,57.597272
+Mon Choisy,-20.020129,57.564207
+Belle Rose (Est),-20.25134,57.482697
+Floreal,-20.315889,57.503869
+Blue Bay,-20.44343,57.718187
+Ste Croix,-20.151637,57.528778
+Sainte Croix,-20.151637,57.528778
+Bois Cheri,-20.428761,57.52833
+Tamarin,-20.340115,57.375068
+Pointe d'Esny ,-20.432061,57.726766
+Midlands,-20.338133,57.570607
+Balaclava,-20.093361,57.513292
+Beau Champ,-20.273006,57.785425
+Arsenal,-20.1056,57.5353
+Ilot Fortier,-20.38514,57.36958
+Bras d'Eau,-20.1439,57.7208
+Poste Lafayette,-20.1306,57.7478
+The Vale,-20.0283,57.5878
